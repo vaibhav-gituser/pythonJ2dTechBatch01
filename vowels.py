@@ -13,4 +13,4 @@ for char in my_string:
     else:
         pass
     
-print(f"{my_string} has {cnt} of vowels")
+print(f"{my_string} has {cnt} no.of vowels")
